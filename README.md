@@ -1,3 +1,13 @@
+# NOTE: This repository shows the extension version supported by M+M. 
+
+This repository was cloned from the CentralNic repository. You can always see the version in our
+OTE environment by clicking going here: https://github.com/MindsAndMachines/epp-fee-extension/tree/ote.
+The version supported in production is found here: https://github.com/MindsAndMachines/epp-fee-extension/tree/production.
+
+
+
+
+
 # Registry Fee Extension for the Extensible Provisioning Protocol (EPP)
 
 This repository contains the source documents used to assemble the specification
